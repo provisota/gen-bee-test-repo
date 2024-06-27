@@ -1,6 +1,6 @@
 
 def print_hello_world():
-    print("Hello AI World #6!!!")
+    print("Hello AI World #7!!!")
 
 
 if __name__ == '__main__':
